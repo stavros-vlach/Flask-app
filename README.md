@@ -19,6 +19,28 @@ Technologies Used
 
 - Flask
 
-- HTML / Jinja2 templates
+- HTML templates
 
 - Render (deployment)
+
+How to Run Locally:
+
+1. Clone the repository: 
+  git clone https://github.com/username/repo-name.git
+  cd repo-name
+
+2. Create a virtual environment (recommended):
+
+  python -m venv venv
+  source venv/bin/activate   # On Linux/Mac
+  venv\Scripts\activate      # On Windows
+
+3. Install dependencies:
+  pip install -r requirements.txt
+
+4. Run the Flask app
+  python app.py
+
+The app will be available at:
+ >http://127.0.0.1:5000/
+ 

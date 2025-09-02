@@ -47,14 +47,4 @@ How to Run Locally:
 The app will be available at:
  >http://127.0.0.1:5000/
  
-Project Structure:  
-├── app.py                      # Flask web application  
-├── Logistic_Regression.py      # Training script for Logistic Regression model  
-├── logistic_model.pkl          # Saved trained model  
-├── scaler.pkl                  # Saved feature scaler  
-├── Social_Network_Ads.csv      # Training dataset  
-├── requirements.txt            # Project dependencies  
-├── templates/  
-│   ├── index.html              # Input form  
-│   └── result.html             # Prediction result page  
 

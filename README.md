@@ -48,7 +48,6 @@ The app will be available at:
  >http://127.0.0.1:5000/
  
 Project Structure:  
-<p align="left">
 ├── app.py                      # Flask web application  
 ├── Logistic_Regression.py      # Training script for Logistic Regression model  
 ├── logistic_model.pkl          # Saved trained model  

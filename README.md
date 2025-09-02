@@ -9,7 +9,7 @@ The app uses a Logistic Regression model (scikit-learn) to predict whether a use
 
 + Estimated Salary
 
-👉 [Try the App Here] (https://flask-app-for-logistic-regression.onrender.com).
+👉 [Try the App Here](https://flask-app-for-logistic-regression.onrender.com).
 
 Technologies Used
 

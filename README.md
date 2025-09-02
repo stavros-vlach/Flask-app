@@ -8,3 +8,17 @@ The app uses a Logistic Regression model (scikit-learn) to predict whether a use
 * Age
 
 + Estimated Salary
+
+👉 [Try the App Here] (https://flask-app-for-logistic-regression.onrender.com).
+
+Technologies Used
+
+- Python 3
+
+- scikit-learn
+
+- Flask
+
+- HTML / Jinja2 templates
+
+- Render (deployment)
